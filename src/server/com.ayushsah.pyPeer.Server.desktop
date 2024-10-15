@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pyPeer Server
+Exec=server.sh
+Type=Application
+Comment=Server for pyPeer - A lightweight peer-to-peer file sharing system for local networks
+Terminal=true
+Categories=Network;Utility
